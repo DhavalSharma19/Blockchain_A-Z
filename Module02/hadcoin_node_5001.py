@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 18 14:06:14 2019
-
-@author: deivid
-"""
-
 import datetime
 import hashlib
 import json
